@@ -1,0 +1,15 @@
+{
+  "encoding": "utf8",
+  "root": "__dirname",
+  "dirs": {
+    "dataPath": "./data/raw/",
+    "goldPath": "./data/gold/",
+    "tankPath": "./data/tank/",
+    "buildPath": "./build/"
+  },
+  "size": 1154335,
+  "bufferSize": 256,
+  "delimiter": "\r\n",
+  "license": "./seed/apache-license.txt",
+  "help": "http://seed.sequomics.com/"
+}
