@@ -28,3 +28,6 @@
  * --/The Heart of Data System/-- of "SCGDB®-Data".
  * ______________________________________________________________________________________________
  */
+
+// global __dirname: true
+// global require: true
