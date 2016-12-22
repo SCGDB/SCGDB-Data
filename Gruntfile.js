@@ -29,3 +29,7 @@
  * --/The Heart of Build System/-- of "SCGDB®-Data".
  * ______________________________________________________________________________________________
  */
+
+
+// global __dirname: true
+// global require: true
